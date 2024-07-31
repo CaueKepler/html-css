@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites em HTML e CSS e agora gerenciar os repositórios
 
-<a href="https://cauekepler.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 01</a>
+<a href="https://cauekepler.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
